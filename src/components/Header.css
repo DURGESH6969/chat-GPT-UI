@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #1e1e1e;
+}
+
+.logo {
+  font-size: 1.5em;
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff9800;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1.2em;
+}
